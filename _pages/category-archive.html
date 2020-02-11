@@ -4,13 +4,14 @@ permalink: /categories/
 title: "Posts by Category"
 last_modified_at: 2020-02-10T15:19:22-04:00
 author_profile: true
-sidebar:
-- title: "Title"
-  image: http://placehold.it/350x250
-  image_alt: "image"
-  text: "Some text here."
-- title: "Another Title"
-  text: "More text here."
+
+--- # sidebar:
+--- - title: "Title"
+---  image_alt: "image"
+---  text: "Some text here."
+--- - title: "Another Title"
+---  text: "More text here."
+
 ---
 {% include group-by-array collection=site.posts field="categories" %}
 {% for category in group_names %}
