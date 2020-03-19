@@ -1,5 +1,5 @@
 ---
-title: "TIL_20200212"
+title: "Python: Sorting"
 categories:
   - TIL
   - Python
