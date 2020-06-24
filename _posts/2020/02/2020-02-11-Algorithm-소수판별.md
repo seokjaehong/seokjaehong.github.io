@@ -1,10 +1,12 @@
 ---
-title: "TIL_20200211 "
+title: "ALGO_20200211 "
 categories:
   - TIL
   - Algorithm
 tags:
   - Algorithm
+sidebar:
+  nav: "docs"
 toc: true
 toc_label: "MyList"
 ---
