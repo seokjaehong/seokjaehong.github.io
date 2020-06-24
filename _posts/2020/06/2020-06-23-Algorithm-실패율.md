@@ -1,5 +1,5 @@
 ---
-title: "ALGO_Programmers_실패율 "
+title: "Algorithm : Programmers_실패율  - 20200623 "
 categories:
   - TIL
   - Algorithm

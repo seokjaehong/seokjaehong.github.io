@@ -1,5 +1,5 @@
 ---
-title: "ALGO_20200211 "
+title: "Algorithm: 소수판별 - 20200211"
 categories:
   - TIL
   - Algorithm
